@@ -24,5 +24,5 @@
  2. npm run start 
 
 ## 项目代码
-* [码云](https://gitee.com/my-projects1/app-tmeplate)
-* [GitHub](https://github.com/kbfz/myMock/tree/master)
+* [gitHub](https://github.com/kbfz/myMock.git)
+* [码云](https://gitee.com/my-projects1/myMock.git)
